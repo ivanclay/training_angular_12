@@ -8,7 +8,7 @@ import { CalculatorService } from '../../services';
 })
 export class CalculatorComponent implements OnInit {
 
-  private number1:string = '';
+  private number1:string = '0';
   private number2:string = '';
   private result:number = 0;
   private operator:string = '';
@@ -20,13 +20,13 @@ export class CalculatorComponent implements OnInit {
   }
 
   limpar(): void {
-    this.number1 = '';
+    this.number1 = '0';
     this.number2 = '';
     this.result = 0;
     this.operator = '';
   }
 
-  addNumbers(numb:string): void {
+  addNumber(numb:string): void {
     if(this.operator === '') {
       this.number1 = this.concatNumber(this.number1, numb);
     }else{

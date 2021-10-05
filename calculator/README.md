@@ -15,6 +15,9 @@ A simple calculator Web as a way to study Angular.
 - [x] Configuring tests
 - [x] Implement calculator component
  
+## Example
+![](demo/calculator_angular_12.gif)
+## Angular version
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
 ## Development server
