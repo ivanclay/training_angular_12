@@ -14,6 +14,7 @@ A simple calculator Web as a way to study Angular.
 - [x] Configuring bootstrap in ***'angular.json'***
 - [x] Configuring tests
 - [x] Implement calculator component
+- [x] Implement tests
  
 ## Example
 ![](demo/calculator_angular_12.gif)
