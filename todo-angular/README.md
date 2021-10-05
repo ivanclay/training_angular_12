@@ -5,6 +5,9 @@ A simple calculator Web as a way to study Angular.
 ## Features
 - [x] Create project calculator
 - [x] Create README
+- [x] Install dependencies
+    - [x] bootstrap
+- [x] Configuring bootstrap in ***'angular.json'***
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
