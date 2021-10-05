@@ -8,7 +8,10 @@ A simple calculator Web as a way to study Angular.
 - [x] Create Calculator Module
 - [x] Create Calculator Component
 - [x] Create Calculator Services
-- [ ] Create HTML inteface
+- [x] Create HTML inteface
+- [ ] Install dependencies
+    - [x] bootstrap
+- [x] Configuring bootstrap in ***'angular.json'***
  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
