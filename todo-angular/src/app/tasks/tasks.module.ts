@@ -1,5 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { RouterModule } from '@angular/router';
+import { FormsModule } from '@angular/forms';
 
 import { TaskService } from './shared';
 import { TaskListComponent } from './list';
@@ -11,8 +13,12 @@ import { TaskListComponent } from './list';
     TaskListComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    RouterModule,
+    FormsModule
   ],
-  providers: [TaskService]
+  providers: [
+    TaskService
+  ]
 })
 export class TasksModule { }

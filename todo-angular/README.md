@@ -13,6 +13,7 @@ A simple calculator Web as a way to study Angular.
 - [x] Create task list component
 - [x] Configure task routes
 - [x] Add HTML task list
+- [x] Implement task list
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
