@@ -9,7 +9,9 @@ A simple calculator Web as a way to study Angular.
     - [x] bootstrap
 - [x] Configuring bootstrap in ***'angular.json'***
 - [x] Create task module
-- [x] implement task service
+- [x] Implement task service
+- [x] Create task list component
+- [x] Configure task routes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
