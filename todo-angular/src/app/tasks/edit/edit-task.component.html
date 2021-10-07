@@ -1,7 +1,7 @@
-<h1>Add Task</h1>
+<h1>Edit Task</h1>
 
 <div class="well">
-  <form #formTask="ngForm" >
+  <form #formTask="ngForm">
     <div class="form-group">
       <label for="nome">Task:</label>
       <input
@@ -13,7 +13,7 @@
         #name="ngModel"
         minlength="5"
         required>
-      <div
+        <div
         *ngIf="name.errors && (name.dirty || name.touched)"
         class="alert alert-danger">
         <div [hidden]="!name.errors.required">
@@ -28,12 +28,10 @@
       <input
         type="submit"
         class="btn btn-success"
-        value="Add"
-        (click)="add()"
-        [disabled]="!formTask.form.valid"
-        >
+        (click)="update()"
+        value="Update">
       <a
-        [routerLink]="['/tasks']"
+      [routerLink]="['/tasks']"
         class="btn btn-default">
         <span class="glyphicon glyphicon-chevron-left"
           aria-hidden="true"></span> Back

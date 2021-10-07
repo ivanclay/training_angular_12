@@ -16,7 +16,10 @@ A simple calculator Web as a way to study Angular.
 - [x] Implement task list
 - [x] Create add task component
 - [x] Create HTML 'add task component'
+- [x] Create edit task component
+- [x] Implement delete task
 
+## Angular version
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
 ## Development server
