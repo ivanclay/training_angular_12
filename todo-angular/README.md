@@ -21,6 +21,9 @@ A simple calculator Web as a way to study Angular.
 - [x] Implement update task status
 - [x] Create directive task completed
 
+## Example
+![](demo/task_manager_angular.gif)
+
 ## Angular version
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
