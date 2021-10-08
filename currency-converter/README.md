@@ -1,26 +1,16 @@
-# Calculator with Angular 12
+# Currency Converter
 
-A simple calculator Web as a way to study Angular.
+A Currency Converter Web as a way to study Angular.
 
 ## Example
 
-![](demo/calculator_angular_12.gif)
+![](demo/undercosntruction.gif)
 
 ## Features
 
 - [x] Create project calculator
 - [x] Create README
-- [x] Create calculator module
-- [x] Create calculator component
-- [x] Create calculator services
-- [x] Create HTML inteface
-- [ ] Install dependencies
-    - [x] bootstrap
-- [x] Configuring bootstrap in ***'angular.json'***
-- [x] Configuring tests
-- [x] Implement calculator component
-- [x] Implement tests
- 
+
 ## Angular version
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
@@ -52,4 +42,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ### About
 
 This project is the minimum expected result of training [Udemy](https://www.udemy.com/course/formacao-angular-inicio-criando-7-projetos/).
-
