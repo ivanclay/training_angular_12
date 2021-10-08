@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { TictactoeComponent } from './tictactoe.component';
+import { TictactoeService } from './shared';
 
 
 
@@ -13,6 +14,9 @@ import { TictactoeComponent } from './tictactoe.component';
   ],
   exports: [
     TictactoeComponent
+  ],
+  providers: [
+    TictactoeService
   ]
 })
 export class TictactoeModule { }
