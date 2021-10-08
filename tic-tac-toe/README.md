@@ -1,27 +1,13 @@
-# Todo with Angular 12
-
-A simple calculator Web as a way to study Angular.
+# TicTacToe
+A simple tic-tac-toe game as a way to study Angular.
 
 ## Example
-![](demo/task_manager_angular.gif)
+![]()
+
 ## Features
-- [x] Create project calculator
+- [x] Create project tic-tac-toe
 - [x] Create README
-- [x] Install dependencies
-    - [x] bootstrap
-- [x] Configuring bootstrap in ***'angular.json'***
-- [x] Create task module
-- [x] Implement task service
-- [x] Create task list component
-- [x] Configure task routes
-- [x] Add HTML task list
-- [x] Implement task list
-- [x] Create add task component
-- [x] Create HTML 'add task component'
-- [x] Create edit task component
-- [x] Implement delete task
-- [x] Implement update task status
-- [x] Create directive task completed
+ 
 
 ## Angular version
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
