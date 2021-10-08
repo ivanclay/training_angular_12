@@ -2,7 +2,7 @@
 A simple tic-tac-toe game as a way to study Angular.
 
 ## Example
-![](https://giphy.com/gifs/please-construction-patient-Y966vaxBQykVi)
+![](demo/underconstruction.gif)
 
 ## Features
 - [x] Create project tic-tac-toe
