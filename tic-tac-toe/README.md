@@ -7,6 +7,10 @@ A simple tic-tac-toe game as a way to study Angular.
 ## Features
 - [x] Create project tic-tac-toe
 - [x] Create README
+- [x] Create tic-tac-toe module
+- [x] Create tic-tac-toe component
+- [x] Configure tic-tac-toe exports
+- [ ] Create tic-tac-toe service
  
 
 ## Angular version
