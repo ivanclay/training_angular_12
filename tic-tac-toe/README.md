@@ -2,7 +2,7 @@
 A simple tic-tac-toe game as a way to study Angular.
 
 ## Example
-![](demo/underconstruction.gif)
+![](demo/tic_tac_toe_angular.gif)
 
 ## Features
 - [x] Create project tic-tac-toe
@@ -11,7 +11,9 @@ A simple tic-tac-toe game as a way to study Angular.
 - [x] Create tic-tac-toe component
 - [x] Configure tic-tac-toe exports
 - [x] Create tic-tac-toe service
-- [ ] Implement tic-tac-toe service
+- [x] Implement tic-tac-toe service
+- [x] Implement game rules
+- [ ] Implement tests
  
 
 ## Angular version
