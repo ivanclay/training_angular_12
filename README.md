@@ -7,6 +7,5 @@ Some projects as a way to study Angular 12
 - [x] [Angular Task Manager](https://github.com/ivanclay/training_angular_12/tree/main/todo-angular)
 - [ ] [Tic-tac-toe game](https://github.com/ivanclay/training_angular_12/tree/main/tic-tac-toe)
 - [ ] Currency converter
-- [ ] Create HTML inteface
 - [ ] Dashboard
 - [ ] Integration of all projects
