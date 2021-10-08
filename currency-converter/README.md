@@ -3,12 +3,21 @@
 A Currency Converter Web as a way to study Angular.
 
 ## Example
-![](demo/undercosntruction.gif)
+![](demo/underconstruction.gif)
 
 ## Features
 
 - [x] Create project calculator
 - [x] Create README
+- [ ] Install dependencies
+    - [x] bootstrap
+    - [x] jquery
+- [x] Configuring bootstrap in ***'angular.json'***
+- [x] Create converter module
+- [x] Create conversion model
+- [x] Create currency model
+- [x] Create response conversion model
+    
 
 ## Angular version
 
