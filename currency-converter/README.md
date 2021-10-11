@@ -18,7 +18,9 @@ A Currency Converter Web as a way to study Angular.
 - [x] Create currency model
 - [x] Create response conversion model
 - [x] Create converter component
-- [x] Create currency service
+- [x] Create currency management service
+- [x] Implement currency management service
+- [x] Create converter service
     
 
 ## Angular version
