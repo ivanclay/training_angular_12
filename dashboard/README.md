@@ -1,5 +1,19 @@
 # Dashboard
 
+A Dashboard Web as a way to study Angular.
+
+## Example
+![](demo/currency_converter_angular.gif)
+
+## Features
+
+- [x] Create project dashboard
+- [x] Create README
+- [ ] Install dependencies
+    - [ ] 
+
+## Angular version
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
 ## Development server
@@ -25,3 +39,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### About
+
+This project is the minimum expected result of training [Udemy](https://www.udemy.com/course/formacao-angular-inicio-criando-7-projetos/).

@@ -7,7 +7,7 @@ A Currency Converter Web as a way to study Angular.
 
 ## Features
 
-- [x] Create project calculator
+- [x] Create project currency converter
 - [x] Create README
 - [ ] Install dependencies
     - [x] bootstrap
