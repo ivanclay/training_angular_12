@@ -28,7 +28,8 @@ A Currency Converter Web as a way to study Angular.
 - [x] Implement currency conversion action
 - [x] Create modal quotation component
 - [x] Implement modal quotation component html
-- [ ] Create date-br filter pipe
+- [x] Create date-br filter pipe
+- [x] Implement date-br filter pipe
     
 
 ## Angular version

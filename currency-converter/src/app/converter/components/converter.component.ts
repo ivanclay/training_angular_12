@@ -29,7 +29,7 @@ export class ConverterComponent implements OnInit {
   }
 
   init(): void {
-    this.conversion = new Conversion('USD', 'BRL', 0);
+    this.conversion = new Conversion('EUR', 'BRL', 0);
     this.hasError = false;
   }
 

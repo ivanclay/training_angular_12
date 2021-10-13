@@ -17,7 +17,7 @@ export class ConverterService {
   constructor(private http: HttpClient) { }
 
   converter(conversion: Conversion): Observable<any> {
-  	let params = `?base=${conversion.currencyFrom}&symbols=${conversion.currencyTo}`;
+  	let params = `&base=${conversion.currencyFrom}&symbols=${conversion.currencyTo}`;
 
   	return this.http
       .get<ResponseConversion>(this.BASE_URL + params)
