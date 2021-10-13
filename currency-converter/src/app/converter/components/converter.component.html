@@ -47,17 +47,17 @@
 			value="Convert"
 			class="btn btn-success space-left"
 			data-toggle="modal"
-			data-target="#modalCotacao"
+			data-target="#modalQuotation"
 			(click)="convert()"
 			[disabled]="!conversionForm.form.valid">
       <br/>
       {{ responseConversion | json }}
 	  </form>
 	 </div>
-	 <!-- <modal-quotation
+	 <modal-quotation
         [id]="'modalQuotation'"
         [responseConversion]="responseConversion"
 		    [conversion]="conversion"
         (onConfirm)="init()">
-    </modal-quotation> -->
+    </modal-quotation>
 </div>

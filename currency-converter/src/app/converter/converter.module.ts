@@ -7,12 +7,14 @@ import { ConverterComponent } from './components';
 import { CurrencyService, ConverterService } from './services';
 import { NumberDirective } from './directives';
 import { ModalQuotationComponent } from './utils';
+import { BrDatePipe } from './pipes/br-date.pipe';
 
 @NgModule({
   declarations: [
     ConverterComponent,
     NumberDirective,
-    ModalQuotationComponent
+    ModalQuotationComponent,
+    BrDatePipe
   ],
   imports: [
     CommonModule,

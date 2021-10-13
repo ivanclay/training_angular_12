@@ -27,7 +27,8 @@ A Currency Converter Web as a way to study Angular.
 - [x] Implement validation number directive
 - [x] Implement currency conversion action
 - [x] Create modal quotation component
-- [ ] Create modal quotation component html
+- [x] Implement modal quotation component html
+- [ ] Create date-br filter pipe
     
 
 ## Angular version
