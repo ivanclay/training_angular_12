@@ -12,7 +12,8 @@ import {
 })
 export class ConverterService {
 
-  private readonly BASE_URL = "http://data.fixer.io/api/latest?access_key=eba7130a5b2d720ce43eb5fcddd47cc3";
+  // private readonly BASE_URL = "http://data.fixer.io/api/latest?access_key=eba7130a5b2d720ce43eb5fcddd47cc3";
+  private readonly BASE_URL = "http://data.fixer.io/api/latest?access_key=f1ac211370a6f58860aa5a27355dd061";
 
   constructor(private http: HttpClient) { }
 
