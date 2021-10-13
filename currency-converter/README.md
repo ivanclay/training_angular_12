@@ -21,6 +21,10 @@ A Currency Converter Web as a way to study Angular.
 - [x] Create currency management service
 - [x] Implement currency management service
 - [x] Create converter service
+- [x] Implement conveter service
+- [x] Implement conversion form
+- [x] Create validation number directive
+- [ ] Implement validation number directive
     
 
 ## Angular version
