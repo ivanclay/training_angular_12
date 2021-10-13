@@ -3,7 +3,7 @@
 A Currency Converter Web as a way to study Angular.
 
 ## Example
-![](demo/underconstruction.gif)
+![](demo/currency_converter_angular.gif)
 
 ## Features
 
