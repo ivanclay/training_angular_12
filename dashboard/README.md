@@ -3,7 +3,7 @@
 A Dashboard Web as a way to study Angular.
 
 ## Example
-![](demo/currency_converter_angular.gif)
+![](demo/underconstruction.gif)
 
 ## Features
 
