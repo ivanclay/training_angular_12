@@ -3,14 +3,20 @@
 A Dashboard Web as a way to study Angular.
 
 ## Example
-![](demo/underconstruction.gif)
+![](demo/charts_google_angular.gif)
 
 ## Features
 
 - [x] Create project dashboard
 - [x] Create README
 - [ ] Install dependencies
-    - [ ] 
+    - [x] Add google charts call 
+- [x] Create dashboard module
+- [x] Create dashboard component
+- [x] Create dashboard service
+- [x] Implement dashboard service
+- [x] Create HTML charts structures
+- [x] Implement charts
 
 ## Angular version
 
