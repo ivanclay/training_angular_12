@@ -13,6 +13,10 @@ An integration project between multiple projects Web as a way to study Angular.
     - [x] bootstrap
     - [x] jquery
 - [x] Configuring bootstrap in ***'angular.json'***
+- [x] Create HTML
+- [ ] Add Modules
+    - [x] dashboard
+    - [ ] 
  
 
 ## Angular version
