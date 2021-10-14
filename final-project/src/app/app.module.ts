@@ -5,6 +5,10 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { DashboardModule } from './dashboard';
+import { CalculatorModule } from './calculator';
+import { ConverterModule } from './converter';
+import { TasksModule } from './tasks';
+import { TictactoeModule } from './tictactoe';
 
 @NgModule({
   declarations: [
@@ -13,6 +17,10 @@ import { DashboardModule } from './dashboard';
   imports: [
     BrowserModule,
     DashboardModule,
+    CalculatorModule,
+    ConverterModule,
+    TasksModule,
+    TictactoeModule,
     AppRoutingModule
   ],
   providers: [],

@@ -16,7 +16,10 @@ An integration project between multiple projects Web as a way to study Angular.
 - [x] Create HTML
 - [ ] Add Modules
     - [x] dashboard
-    - [ ] 
+    - [x] calculator
+    - [x] currency converter
+    - [x] task manager
+    - [x] tic tac toe
  
 
 ## Angular version
