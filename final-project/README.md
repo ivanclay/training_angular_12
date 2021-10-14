@@ -3,7 +3,7 @@
 An integration project between multiple projects Web as a way to study Angular.
 
 ## Example
-![](demo/underconstruction.gif)
+![](demo/integrated_project.gif)
 
 ## Features
 
